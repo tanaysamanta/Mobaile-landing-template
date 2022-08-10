@@ -1,1 +1,0 @@
-# Mobaile-landing-template
