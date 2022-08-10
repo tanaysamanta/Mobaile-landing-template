@@ -1,2 +1,1 @@
 # Mobaile-landing-template
-Master
